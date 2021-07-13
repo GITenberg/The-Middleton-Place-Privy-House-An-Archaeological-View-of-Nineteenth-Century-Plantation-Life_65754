@@ -1,11 +1,16 @@
 _repo: The-Middleton-Place-Privy-House-An-Archaeological-View-of-Nineteenth-Century-Plantation-Life_65754
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65754-h/images/cover.jpg
 creator:
   author:
     agent_name: Haskell, Helen Woolford
     gutenberg_agent_id: '53488'
     url: http://www.gutenberg.org/2009/agents/53488
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65754#The-Middleton-Place-Privy-House-An-Archaeological-View-of-Nineteenth-Century-Plantation-Life
 gutenberg_issued: '2021-07-03'
 gutenberg_type: Text
 identifiers:
